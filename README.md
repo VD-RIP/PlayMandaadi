@@ -82,7 +82,7 @@ Experience the thrill of traditional Tamil wooden sailboat racing directly in yo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vishvadev/PlayMandaadi.git
+   git clone https://github.com/VD-RIP/PlayMandaadi.git
    cd PlayMandaadi
    ```
 

@@ -5,7 +5,7 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vishvadev/PlayMandaadi.git"
+    "url": "https://github.com/VD-RIP/PlayMandaadi.git"
   },
   "scripts": {
     "start": "node server.js",
