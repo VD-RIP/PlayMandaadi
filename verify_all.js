@@ -4,6 +4,8 @@ const path = require('path');
 const files = [
   'index.html',
   'manifest.webmanifest',
+  'og.jpg',
+  'banner.jpg',
   'icons/icon-32.png',
   'icons/icon-192.png',
   'icons/apple-touch-icon.png',
