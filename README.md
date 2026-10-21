@@ -82,8 +82,8 @@ Experience the thrill of traditional Tamil wooden sailboat racing directly in yo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vishvadev/mandaadi-the-game.git
-   cd mandaadi-the-game
+   git clone https://github.com/vishvadev/PlayMandaadi.git
+   cd PlayMandaadi
    ```
 
 2. Verify all game assets are present:
