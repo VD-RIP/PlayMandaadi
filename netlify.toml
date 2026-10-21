@@ -29,6 +29,13 @@
     Content-Type = "application/manifest+json; charset=utf-8"
     Cache-Control = "public, max-age=86400"
 
+# Social banner images
+[[headers]]
+  for = "/*.jpg"
+  [headers.values]
+    Content-Type = "image/jpeg"
+    Cache-Control = "public, max-age=3600"
+
 # Video streaming with byte ranges
 [[headers]]
   for = "/film/*.mp4"
