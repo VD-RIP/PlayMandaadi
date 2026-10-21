@@ -3,6 +3,18 @@
   command = "npm run build"
 
 [[redirects]]
+  from = "/og.jpg"
+  to = "/index.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/banner.jpg"
+  to = "/index.html"
+  status = 404
+  force = true
+
+[[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200

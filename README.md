@@ -156,7 +156,6 @@ This project is configured out-of-the-box for [Netlify](https://www.netlify.com/
 ├── index.html                  # Main game client and application UI
 ├── livery.js                   # Traditional village boat colors & sail liveries
 ├── manifest.webmanifest        # Progressive Web App manifest
-├── og.jpg                      # Social preview image
 ├── package.json                # Project dependencies and start scripts
 ├── rig.js                      # Sail rigging physics & sail shapes
 ├── sea.js                      # Procedural sea shaders & water physics
