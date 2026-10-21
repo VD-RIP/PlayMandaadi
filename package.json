@@ -1,0 +1,21 @@
+{
+  "name": "mandaadi-the-game",
+  "version": "1.0.0",
+  "description": "Mandaadi: The Game - An authentic 3D paaimaram sailboat racing game set on the Ramanathapuram coast of Tamil Nadu.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "verify": "node verify_all.js"
+  },
+  "keywords": [
+    "mandaadi",
+    "sailing-game",
+    "paaimaram",
+    "threejs",
+    "webgl",
+    "tamil-nadu",
+    "ramanathapuram"
+  ],
+  "author": "Vishva Dev",
+  "license": "MIT"
+}

@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+.npm/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local screenshots/tests
+*_shot.png
+*_screenshot.png
+*_active.png
+menu_with_credits.png
