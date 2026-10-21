@@ -103,6 +103,23 @@ Experience the thrill of traditional Tamil wooden sailboat racing directly in yo
 
 ---
 
+## 🌐 Deploy to Netlify
+
+This project is configured out-of-the-box for [Netlify](https://www.netlify.com/):
+- `netlify.toml` handles routing, headers, byte-range streaming for `.mp4` video and `.mp3` audio, and caching policies for 3D model geometry.
+- `_redirects` ensures single-page routing works seamlessly.
+
+### Deploy Steps:
+1. Push this repository to your GitHub account (`https://github.com/VD-RIP/PlayMandaadi`).
+2. Log in to [Netlify](https://app.netlify.com/) and click **"Add new site"** ➔ **"Import an existing project"**.
+3. Select **GitHub** and choose `VD-RIP/PlayMandaadi`.
+4. Netlify will automatically detect `netlify.toml`:
+   - **Publish directory**: `.`
+   - **Build command**: *(none needed / `npm run build`)*
+5. Click **Deploy PlayMandaadi** — your 3D sailing game will be live globally!
+
+---
+
 ## 📁 Repository Structure
 
 ```

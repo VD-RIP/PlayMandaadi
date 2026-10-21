@@ -8,6 +8,7 @@
     "url": "https://github.com/VD-RIP/PlayMandaadi.git"
   },
   "scripts": {
+    "build": "echo \"Ready for deployment\"",
     "start": "node server.js",
     "verify": "node verify_all.js"
   },
